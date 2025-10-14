@@ -2,4 +2,4 @@ Prueba Parques de bolas
 
 Link:
 
-https://dgreenheck.github.io/threejs-gltf-import/
+https://elmaslacra.github.io/Parquecor/
