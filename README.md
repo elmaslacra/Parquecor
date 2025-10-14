@@ -1,11 +1,5 @@
-# threejs-gltf-import
+Prueba Parques de bolas
 
-Demo app for importing a .gltf model using Three.js
-
-## Demo
+Link:
 
 https://dgreenheck.github.io/threejs-gltf-import/
-
-## Tutorial
-
-Check out the [step-by-step tutorial](https://youtu.be/aOQuuotM-Ww) on my YouTube channel!
